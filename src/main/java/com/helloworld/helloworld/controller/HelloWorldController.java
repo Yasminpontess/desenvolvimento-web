@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping ("/hello-world")
-public class CorreaEletricaController {
+public class HelloWorldController {
 
 	//Metodos de requisições/respostas
 	
